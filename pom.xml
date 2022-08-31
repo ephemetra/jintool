@@ -15,7 +15,7 @@
     <artifactId>jint-all</artifactId>
     <version>1.0.0</version>
     <name>jintool</name>
-    <description>Jint是一个小的Java类库, 通过封装代码, 减少开发周期, 不再做CV工程师</description>
+    <description>Jintool是一个小的Java类库, 通过封装代码, 减少开发周期, 不再做CV工程师</description>
     <url>https://github.com/ephemetra/common</url>
 
     <distributionManagement>
